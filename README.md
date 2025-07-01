@@ -25,3 +25,5 @@ Other skills: technical research and documentation, data analysis, network confi
 
 # Let's Connect
 You can reach out to me by email at kelsey.gallo@yahoo.com, or through my LinkedIn website for discussion and collaboration opportunities. Thank you for taking the time to view my portfolio. I look forward to getting to know you!
+
+![image](https://github.com/user-attachments/assets/3f32bcec-0f9c-4204-a10f-11fd09222f1c)
